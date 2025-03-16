@@ -4,10 +4,11 @@ Using MySQL, I analyzed pizza sales trends, customer preferences, and overall bu
 
 📂 Datasets Analyzed:
 
-Pizza Sales
-Pizza Types
-Orders
-Order Details
+Pizza Sales,
+Pizza Types,
+Orders,
+Order Details,
+
 With 13 targeted SQL queries, I uncovered:
 
 📈 Key Sales Trends
